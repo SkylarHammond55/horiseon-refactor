@@ -11,6 +11,6 @@ Refactoring of bace code for Horiseon including change of HTML to from non-seman
 
 ## Link
 
-![link](https://skylarhammond55.github.io/horiseon-refactor/)
+https://skylarhammond55.github.io/horiseon-refactor/
 
 
