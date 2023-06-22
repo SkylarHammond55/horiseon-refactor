@@ -1,29 +1,30 @@
+/* universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* background color of page */
 body {
     background-color: #d9dcd6;
 }
-
+/* font background and color of entire top line */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* horiseon */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* just SEO */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* navigation links */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* all links  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* all paragraphs */
 p {
     font-size: 16px;
 }
-
+/* main immage  */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* seo and social-media-marketing pictures */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* online rep online-reputation-management picture */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* seo  social-media-marketing and online-reputation-management blocks */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* lead generation brand awareness and cost management block */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* box font and color */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* box font and color */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* box font and color */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
